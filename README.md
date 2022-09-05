@@ -1,5 +1,10 @@
 ![](https://i.imgur.com/b0ZyIx5.jpg)
 
+Installation Instructions
+------
+Install openpilot on a supported device by entering https://installer.comma.ai/homatthew/master or https://smiskol.com/fork/homatthew during the installer setup.
+
+
 Table of Contents
 =======================
 
