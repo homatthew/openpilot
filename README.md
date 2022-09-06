@@ -19,6 +19,7 @@ Table of Contents
 
 What does this fork do?
 ------
+This is a fork of spektor56 ghostpilot branch `0.8.12-devel-honda` that is using NEOS 20 to address bootloop issues.
 
 The purpose of this fork is to make the transition from Honda Safety Sense to openpilot as seamless as possible. All the information necessary to operate the system can be found in the vehicles owners manual. This fork replicates the behaviour of Honda Safety Sense as accurately as possible with the following changes:
 
@@ -35,7 +36,7 @@ The purpose of this fork is to make the transition from Honda Safety Sense to op
 
 Installation Instructions
 ------
-Install openpilot on a supported device by entering https://installer.comma.ai/spektor56/0.8.12-devel-honda or https://smiskol.com/fork/spektor56 during the installer setup.
+Install openpilot on a supported device by entering https://installer.comma.ai/homatthew/0.8.12-devel-honda or https://smiskol.com/fork/homatthew during the installer setup.
 
 Donate
 ------
